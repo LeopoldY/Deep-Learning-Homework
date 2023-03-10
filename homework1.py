@@ -1,5 +1,7 @@
-# f(x) = sin(x); 用数值微分法和自动求导的方式求导数
-
+'''
+Homework1:
+    f(x) = sin(x); 用数值微分法和自动求导的方式求导数
+'''
 import torch
 import numpy as np
 import matplotlib.pyplot as plt
