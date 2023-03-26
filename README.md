@@ -23,6 +23,7 @@ __作业是不可能自己写的，全靠ChatGPT__
 
 - 作业5：见“5”文件夹下的softmax-regression-concise.ipynb文件
 - 作业6：见“6”文件夹下的mlp-scratch.ipynb文件
+- 作业7：见“7”文件夹下的mlp-concise.ipynb文件
 
 |   Date    | Homework |                     Changes                     |
 | :-------: | :------: | :---------------------------------------------: |
