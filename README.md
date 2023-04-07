@@ -25,6 +25,7 @@ $$
 - 作业6：见“6”文件夹下的mlp-scratch.ipynb文件
 - 作业7：见“7”文件夹下的mlp-concise.ipynb文件
 - 作业8：见“8”文件夹下的dropout.ipynb文件
+- 作业9：见“9”文件夹下的model-construction.ipynb文件
 
 |   Date    | Homework |                     Changes                     |
 | :-------: | :------: | :---------------------------------------------: |
